@@ -1,0 +1,16 @@
+{
+  "name": "comicmake",
+  "version": "1.0.0",
+  "description": "This is a comic reader. And a comic maker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comics",
+    "webcomics",
+    "react"
+  ],
+  "author": "Camila Paschini",
+  "license": "MIT"
+}

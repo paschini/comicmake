@@ -1,0 +1,25 @@
+body {
+  margin: 0 auto;
+  width: 100vw;
+  background-color: dimgrey;
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+}
+
+header {
+  grid-column: 2;
+  background-color: hotpink;
+}
+
+section {
+  grid-column: 2;
+  padding: 20px;
+  background-color: lime;
+}
+
+footer {
+  grid-column: span 3;
+  padding: 20px;
+  background-color: aqua;
+}
+
